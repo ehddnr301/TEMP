@@ -192,4 +192,4 @@ Lang2SQL is developed as part of Pseudo-Lab's Open Research Initiative. Special 
 <h2>License 🗞</h2>
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
- 
+  
